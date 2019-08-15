@@ -23,3 +23,9 @@ After verifying that your link is not a duplicate, I will merge your pr. After N
 
 ### License
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+
+### Disclaimer
+* Not affiliated with American Express
+* No copyright infringement intended
+* If your corporate lawyers are displeased, please contract me or send me a cease-and-desist letter.
