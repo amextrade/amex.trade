@@ -1,1 +1,8 @@
+http://amex.netlify.com/* http://amex.trade/:splat 301!
+
+# redirect / to /r/churningcanada
 / https://www.reddit.com/r/churningcanada/ 301!
+
+# Reddit users
+/bxio/platinum http://amex.ca/share/jIASHXzQnj 302
+/bxio/gold http://amex.ca/share/jIASHXxlNZ 302
